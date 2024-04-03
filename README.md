@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bruno Sousa</h1>
-<h3 align="center">I'm a bioinformatician and a huge linux, machine learning and deep learning enthusiast</h3>
+<h3 align="center">I'm a bioinformatician and a huge linux and dev ops enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif">
 
-- 🔭 I’m currently working on **Bioinformatics Thesis and building my own Operating System for 32bit architechtures**
+- 🔭 I’m currently working on **Master's thesis and building my own operating system for 32bit architechtures**
 
 - 🌱 I’m currently learning **Linux From Scratch**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bruno16sousa17@gmail.com**
 
-- ⚡ Fun fact **I love bulldogs**
+<!- ⚡ Fun fact **I love bulldogs**>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
