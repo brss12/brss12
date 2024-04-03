@@ -2,9 +2,9 @@
 <h3 align="center">I'm a bioinformatician and a huge linux, machine learning and deep learning enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif">
 
-- 🔭 I’m currently working on **Generative Adversarial Networks**
+- 🔭 I’m currently working on **Bioinformatics Thesis and building my own Operating System for 32bit architechtures**
 
-- 🌱 I’m currently learning **Tensorflow, Pytorch and Linux From Scratch**
+- 🌱 I’m currently learning **Linux From Scratch**
 
 - 💬 Ask me about **Bioinformatics**
 
