@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bruno16sousa17@gmail.com**
 
-<!- ⚡ Fun fact **I love bulldogs**>
+<!-- ⚡ Fun fact I love bulldogs -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
