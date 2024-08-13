@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bruno Sousa</h1>
-<h3 align="center">I'm a bioinformatician and a huge linux and dev ops enthusiast</h3>
+<h3 align="center">I'm a bioinformatician and a huge linux and machine/deep learning enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif">
 
-- 🔭 I’m currently working on **Bioinformatics master's thesis and building my own operating system for 32bit architectures**
+- 🔭 I’m currently working on **Bioinformatics master's thesis**
 
-- 🌱 I’m currently learning **Linux From Scratch**
+- 🌱 I’m currently learning **Pytorch**
 
 - 💬 Ask me about **Bioinformatics**
 
