@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Developing the APAtizer bioinformatics tool**
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Tensorflow and Pytorch**
 
 - 💬 Ask me about **Bioinformatics**
 
