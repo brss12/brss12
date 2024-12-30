@@ -2,7 +2,7 @@
 <h3 align="center">I'm a bioinformatician and a huge linux and machine/deep learning enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif">
 
-- 🔭 I’m currently working on **Bioinformatics master's thesis**
+- 🔭 I’m currently working on **Developing the APAtizer bioinformatics tool**
 
 - 🌱 I’m currently learning **Pytorch**
 
